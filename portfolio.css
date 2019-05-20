@@ -1,4 +1,3 @@
-
 .background{
 background: url(./images/BK.jpg) no-repeat center center fixed;
 background-attachment: fixed;
@@ -9,6 +8,7 @@ background-size: cover;
 width: 1421px;
 height:773px;
 
+
 }
 h1{
 font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -16,7 +16,7 @@ color:#ffff00;
 margin: 0px;
 font-size: 35px; 
 position: absolute;
-top: 4px;
+padding-top: 40px;
 left: 30px;
 }
 #home{
