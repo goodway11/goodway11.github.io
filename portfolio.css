@@ -1,13 +1,13 @@
 
 .background{
-background: url(./images/BK.jpg) no-repeat;
+background: url(./images/BK.jpg) no-repeat 100%;
 background-attachment: fixed;
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
 background-size: cover;
 width: 1421px;
-height:824px;
+height:773px;
 
 }
 h1{
@@ -555,6 +555,7 @@ margin-left:0px;
 border-radius:100%;	
 margin-top:7%;
 }
+
 
 
 
